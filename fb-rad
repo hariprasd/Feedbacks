@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html style="background-color: #01010d;">
+<a href="https://wa.me/919345160259" style=" margin-top: 10px; display: inline-flex; color: #fff; text-decoration: none; font-size: 25px; margin-left:18px; margin:15px ;-webkit-appearance: none; text-align: left;letter-spacing: -3px;">≡≡</a>
+<body style="color: #fff;">
+  <br>
+  <br>
+  <h2 style=" text-decoration: none;  text-align: center; color: #fff; width:auto; font-family: Lexend mega ; font-size: 25px;-webkit-appearance: none;">Feedback Management</h2>
+  <h4 style=" text-decoration: none;  text-align: center; color: #fff; width:auto; text-decoration: none; font-family: Caviar Dreams ; font-size: 18px;">S4-CSE</h4>
+  <br>
+  <h2 style=" text-decoration: none;  text-align: center; color: #00ace6; width:auto; font-family: Qualy ; font-size: 22px;">Mr. Akhil N V</h2>
+<form action="/" method="get" style="height: 70%; width: 50%; background: linear-gradient(to top left, #0033cc 0%, #ff99cc 100%); margin-top:5%; align-content: center; text-align: center; margin-left: 25%; border-radius: 20px;">
+    <br>
+  <br>
+
+<div style="height: auto; font-size: 14px;">
+  <h4 style="font-size: 17px; margin-top: 3%; ">Regularity in Taking Classes</h4>
+ <input type="radio"  id="regu1" name="regu" value="1">
+<label for="regu1" style="margin: 3px;">1</label>
+<input type="radio"  id="regu2" name="regu" value="2">
+<label for="regu2" style="margin: 3px;">2</label>
+<input type="radio"  id="regu3" name="regu" value="3">
+<label for="regu3" style="margin: 3px;">3</label>
+<input type="radio"  id="regu4" name="regu" value="4">
+<label for="regu4" style="margin: 3px;">4</label>
+<input type="radio"  id="regu5" name="regu" value="5">
+<label for="regu5" style="margin: 3px;">5</label>
+  <br><hr style=" margin: 30px; height:2px;border-width:0;opacity: 25%;background-color:#fff">
+</div>
+
+<div style="height: auto; font-size: 14px;">
+  <h4 style="font-size: 17px; margin-top: 3%; ">Coverage of Syllabus</h4>
+ <input type="radio"  id="regu1" name="regu" value="1">
+<label for="regu1" style="margin: 3px;">1</label>
+<input type="radio"  id="regu2" name="regu" value="2">
+<label for="regu2" style="margin: 3px;">2</label>
+<input type="radio"  id="regu3" name="regu" value="3">
+<label for="regu3" style="margin: 3px;">3</label>
+<input type="radio"  id="regu4" name="regu" value="4">
+<label for="regu4" style="margin: 3px;">4</label>
+<input type="radio"  id="regu5" name="regu" value="5">
+<label for="regu5" style="margin: 3px;">5</label>
+  <br><hr style=" margin: 30px; height:2px;border-width:0;opacity: 25%;background-color:#fff">
+</div>
+
+<div style="height: auto; font-size: 14px;">
+  <h4 style="font-size: 17px; margin-top: 3%; ">Correction of Assignments, Tests etc</h4>
+ <input type="radio"  id="regu1" name="regu" value="1">
+<label for="regu1" style="margin: 3px;">1</label>
+<input type="radio"  id="regu2" name="regu" value="2">
+<label for="regu2" style="margin: 3px;">2</label>
+<input type="radio"  id="regu3" name="regu" value="3">
+<label for="regu3" style="margin: 3px;">3</label>
+<input type="radio"  id="regu4" name="regu" value="4">
+<label for="regu4" style="margin: 3px;">4</label>
+<input type="radio"  id="regu5" name="regu" value="5">
+<label for="regu5" style="margin: 3px;">5</label>
+  <br><hr style=" margin: 30px; height:2px;border-width:0;opacity: 25%;background-color:#fff">
+</div>
+
+<div style="height: auto; font-size: 14px;">
+  <h4 style="font-size: 17px; margin-top: 3%; ">Communication Skills</h4>
+ <input type="radio"  id="regu1" name="regu" value="1">
+<label for="regu1" style="margin: 3px;">1</label>
+<input type="radio"  id="regu2" name="regu" value="2">
+<label for="regu2" style="margin: 3px;">2</label>
+<input type="radio"  id="regu3" name="regu" value="3">
+<label for="regu3" style="margin: 3px;">3</label>
+<input type="radio"  id="regu4" name="regu" value="4">
+<label for="regu4" style="margin: 3px;">4</label>
+<input type="radio"  id="regu5" name="regu" value="5">
+<label for="regu5" style="margin: 3px;">5</label>
+  <br><hr style=" margin: 30px; height:2px;border-width:0;opacity: 25%;background-color:#fff">
+</div>
+
+<div style="height: auto; font-size: 14px;">
+  <h4 style="font-size: 17px; margin-top: 3%; ">Maintenence of Discipline</h4>
+ <input type="radio"  id="regu1" name="regu" value="1">
+<label for="regu1" style="margin: 3px;">1</label>
+<input type="radio"  id="regu2" name="regu" value="2">
+<label for="regu2" style="margin: 3px;">2</label>
+<input type="radio"  id="regu3" name="regu" value="3">
+<label for="regu3" style="margin: 3px;">3</label>
+<input type="radio"  id="regu4" name="regu" value="4">
+<label for="regu4" style="margin: 3px;">4</label>
+<input type="radio"  id="regu5" name="regu" value="5">
+<label for="regu5" style="margin: 3px;">5</label>
+  <br><hr style=" margin: 30px; height:2px;border-width:0;opacity: 25%;background-color:#fff">
+</div>
+
+<div style="height: auto; font-size: 14px;">
+  <h4 style="font-size: 17px; margin-top: 3%; ">Clarity & Presentation of the Topics</h4>
+ <input type="radio"  id="regu1" name="regu" value="1">
+<label for="regu1" style="margin: 3px;">1</label>
+<input type="radio"  id="regu2" name="regu" value="2">
+<label for="regu2" style="margin: 3px;">2</label>
+<input type="radio"  id="regu3" name="regu" value="3">
+<label for="regu3" style="margin: 3px;">3</label>
+<input type="radio"  id="regu4" name="regu" value="4">
+<label for="regu4" style="margin: 3px;">4</label>
+<input type="radio"  id="regu5" name="regu" value="5">
+<label for="regu5" style="margin: 3px;">5</label>
+  <br><hr style=" margin: 30px; height:2px;border-width:0;opacity: 25%;background-color:#fff">
+</div>
+
+<div style="height: auto; font-size: 14px;">
+  <h4 style="font-size: 17px; margin-top: 3%; ">Giving notes and materials etc.</h4>
+ <input type="radio"  id="regu1" name="regu" value="1">
+<label for="regu1" style="margin: 3px;">1</label>
+<input type="radio"  id="regu2" name="regu" value="2">
+<label for="regu2" style="margin: 3px;">2</label>
+<input type="radio"  id="regu3" name="regu" value="3">
+<label for="regu3" style="margin: 3px;">3</label>
+<input type="radio"  id="regu4" name="regu" value="4">
+<label for="regu4" style="margin: 3px;">4</label>
+<input type="radio"  id="regu5" name="regu" value="5">
+<label for="regu5" style="margin: 3px;">5</label>
+  <br><hr style=" margin: 30px; height:2px;border-width:0;opacity: 25%;background-color:#fff">
+</div>
+
+<div style="height: auto; font-size: 14px;">
+  <h4 style="font-size: 17px; margin-top: 3%; ">Response to Questions & Doubts</h4>
+ <input type="radio"  id="regu1" name="regu" value="1">
+<label for="regu1" style="margin: 3px;">1</label>
+<input type="radio"  id="regu2" name="regu" value="2">
+<label for="regu2" style="margin: 3px;">2</label>
+<input type="radio"  id="regu3" name="regu" value="3">
+<label for="regu3" style="margin: 3px;">3</label>
+<input type="radio"  id="regu4" name="regu" value="4">
+<label for="regu4" style="margin: 3px;">4</label>
+<input type="radio"  id="regu5" name="regu" value="5">
+<label for="regu5" style="margin: 3px;">5</label>
+  <br><hr style=" margin: 30px; height:2px;border-width:0;opacity: 25%;background-color:#fff">
+</div>
+
+  <input type="SUBMIT" formaction="mailto:harimohan0502@gmail.com" style= " border: none; font-family:Graduate ; font-size:20px; height: 40px; width: 120px; border-style:rounded; background-color: #fff; border-radius: 4px; color: #0066ff;">
+    <br>
+  <br>
+    <br>
+  <br>
+</form>
+</body>
+</html>
